@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: calculator
-        image: Ajay23v/calculator:v1.0.0  
+        image: Ajay-23v/menu-driven-calculator:__IMAGE_TAG__
         ports:
         - containerPort: 5000
 ---
